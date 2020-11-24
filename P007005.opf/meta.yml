@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG24218
   title: བདག་འཛིན་གཤགས་འདེབས་རྩ་འགྲེལ།
-  volume: ''
+  volume:
+    0340b96bd8124313939b6057e78bd558:
+      image_group_id: I1KG24295
+      title: Volume 1 of bdag 'dzin gshags 'debs rtsa 'grel/
+      volume_number: 1
+      total_pages: 224
   author: ''
+ebook_metadata:
+  title: བདག་འཛིན་གཤགས་འདེབས་རྩ་འགྲེལ།
+  author: ''
+  sku: P007005
+  cover: cover.jpg
+  layers:
+  - pagination
